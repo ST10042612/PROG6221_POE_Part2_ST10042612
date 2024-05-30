@@ -1,0 +1,14 @@
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\bin\Debug\net8.0\RecipeTracker.exe
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\bin\Debug\net8.0\RecipeTracker.deps.json
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\bin\Debug\net8.0\RecipeTracker.runtimeconfig.json
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\bin\Debug\net8.0\RecipeTracker.dll
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\bin\Debug\net8.0\RecipeTracker.pdb
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\obj\Debug\net8.0\RecipeTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\obj\Debug\net8.0\RecipeTracker.AssemblyInfoInputs.cache
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\obj\Debug\net8.0\RecipeTracker.AssemblyInfo.cs
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\obj\Debug\net8.0\RecipeTracker.csproj.CoreCompileInputs.cache
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\obj\Debug\net8.0\RecipeTracker.dll
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\obj\Debug\net8.0\refint\RecipeTracker.dll
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\obj\Debug\net8.0\RecipeTracker.pdb
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\obj\Debug\net8.0\RecipeTracker.genruntimeconfig.cache
+C:\Users\Mjpae\source\repos\RecipeTracker\RecipeTracker\obj\Debug\net8.0\ref\RecipeTracker.dll
